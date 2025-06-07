@@ -2,10 +2,10 @@ import numpy as np
 import sympy as sp
 
 def Et (x_seb, x_n):
-    return abs(((x_seb-x_n)/x_seb)*100)
+    return abs((x_seb-x_n)/x_seb)
 
 def Ea (x_n, x0):
-    return abs(((x_n - x0)/x_n)*100) if x_n != 0 else float('inf')
+    return abs((x_n - x0)/x_n) if x_n != 0 else float('inf')
 
 def NewtonRaphsonModif(f, x0, x_seb, max_iter=3):
     x = sp.symbols('x')

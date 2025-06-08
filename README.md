@@ -1,4 +1,10 @@
-## Newton Raphson Modifikasi
+## Newton Raphson Modifikasi R02
+
+### Anggota Kelompok : <br>
+Valentino Mausal Sinaga (5053241012) <br>
+Kagendra Amadeo Reynara Pratista (5053241015) <br>
+Kadek Angga Wistara (5053241025) <br> 
+Farrel Jeremia Santoso (5053241029)<br>
 
 ### Rumus
 ![image](https://github.com/user-attachments/assets/ad2d68b8-ff09-448c-8b8d-ee5ab8044811)
